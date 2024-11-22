@@ -4,9 +4,10 @@
 
 <h3 align="center">Software Developer from Poland</h3>
 <div align="center">
+<h3>🛠️ Professionally, from June 2023 to September 2024 I worked as a Software Programmer, where I was part of a team responsible for creating a web application for calculating investments</h3>
 <h3>🎓 I have completed a bachelor's degree in Global Business Services with a specialization in Data Analytics</h3>
-<h3>🔭 I am currently working on new full stack projects to learn better React, Angular and ASP.NET</h3> 
-<h3>📚 I am currently studying Applied Informatics</h3>
+<h3>🔭 Currently I am working on new full stack projects to learn better React, Angular and ASP.NET</h3> 
+<h3>📚 And I am a student of master's degree in Applied Informatics</h3>
 </div>
 <div align="center"> 
     <a href="https://www.linkedin.com/in/kacper-ludwiczak-portfolio/" target="_blank">
