@@ -19,12 +19,11 @@
 </div>
 <br>
         
-
+<!-- 
 <h3 align="center">📊 My Stats 📊</h3>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KacperLudwiczak&theme=ocean-gradient&hide_border=true&border_radius=30&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=210" alt="GitHub Streak" /></a>
 <br>
-<!-- 
 -->   
 
 <h3 align="center">⛏️ Tools I use ⛏️</h3>
