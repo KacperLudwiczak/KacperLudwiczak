@@ -11,10 +11,18 @@
 </div>
 
 <div align="center">
+<h3>My Portfolio</h3>
+<div align="center"> 
+    <a href="https://kacperludwiczak.github.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" title="Portfolio" width="50" height="50"  />
+</div>
+</div>
+
+<div align="center">
 <h3>My Profile</h3>
 <div align="center"> 
     <a href="https://www.linkedin.com/in/kacper-ludwiczak-portfolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="50" height="50"  />
 </div>
 </div>
 <br>
