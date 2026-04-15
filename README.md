@@ -32,8 +32,9 @@
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KacperLudwiczak&theme=ocean-gradient&hide_border=true&border_radius=30&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=210" alt="GitHub Streak" /></a>
 <br>
--->   
+-->  
 
+<!--
 <h3 align="center">⛏️ Tools I use ⛏️</h3>
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" title="JavaScript"/>
@@ -59,7 +60,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" title="Notion" />            
 </div>
 <br>
-
+-->
 <div align="center">
   <h3>⚡ My Contributions ⚡</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KacperLudwiczak/KacperLudwiczak/output/github-contribution-grid-snake.svg" />
